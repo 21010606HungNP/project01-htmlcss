@@ -127,9 +127,6 @@ a {
     justify-content: space-between;
 }
 
-.clients .stars {
-}
-
 .clients desc {
     color: #7d8589;
     font-size: 1.6rem;
@@ -163,6 +160,10 @@ a {
 .clients .images .guides {
     margin-top: 40px;
     padding: 93px 0 79px;
+}
+
+.guide {
+    scroll-margin-top: 200px;
 }
 
 .guides .sub-title {
