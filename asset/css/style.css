@@ -157,13 +157,9 @@ a {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-.clients .images .guides {
+.guides {
     margin-top: 40px;
     padding: 93px 0 79px;
-}
-
-.guide {
-    scroll-margin-top: 200px;
 }
 
 .guides .sub-title {
@@ -244,6 +240,7 @@ a {
 /* Featured */
 
 .featured {
+    scroll-margin-top: 80px;
     margin-top: 41px;
     padding-top: 110px 0;
     background-color: #f5fafe;
@@ -347,6 +344,7 @@ a {
 
 /* Stats */
 .stats {
+    scroll-margin-top: 50px;
     margin-top: 75px;
     padding: 50px 0;
 }
@@ -491,6 +489,7 @@ a {
 /* Subscription */
 
 .subscription {
+    scroll-margin-top: 90px;
     margin-top: 90px;
 }
 
